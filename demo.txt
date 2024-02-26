@@ -2,4 +2,7 @@ git init
 git status
 git add 
 git remote
+git push 
+git pull
+git log
 
